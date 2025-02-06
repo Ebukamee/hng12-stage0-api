@@ -37,6 +37,11 @@ The server will start on port `8000`. You can access it by visiting:
 http://localhost:8000/
 ```
 
+If you want to use the hosted link, use:
+```
+https://hng12-stage0-api-ffqa.onrender.com/
+```
+
 ## API Endpoint
 ### `GET /`
 #### Response:
@@ -63,5 +68,6 @@ This project is open-source and available under the [MIT License](LICENSE).
 ## Author
 **Chukwuebuka Nwokike**
 
-For inquiries, reach out via email: `chukwuebukanwokike2007@gmail.com`.
+## Backlink
+Looking to Hire a Go developer? Check out [HNG's talent pool](https://hng.tech/hire/golang-developers).
 
